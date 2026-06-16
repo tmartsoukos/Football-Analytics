@@ -15,6 +15,11 @@ env/
 # Μεγάλα input βίντεο
 data/football_match.mp4
 
+# Προσωπικά αρχεία / παραδοτέα που δεν θέλουμε δημόσια
+orasi_extras/
+Computer_Vision_Anafora.pdf
+Football_Analytics_Presentation.pptx
+
 # IDE / OS
 .vscode/
 .idea/
