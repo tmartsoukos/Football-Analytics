@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# YOLO model weights (κατεβαίνουν αυτόματα από το ultralytics)
+*.pt
+
+# Μεγάλα input βίντεο
+data/football_match.mp4
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
